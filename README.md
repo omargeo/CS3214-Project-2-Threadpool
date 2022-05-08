@@ -1,4 +1,5 @@
 # CS3214-Project-2
+A Fork-Join Threadpool
 
 In this project, a small fork/join framework was created that allows the parallel execution of divide-and-conquer algorithms 
 such as the one shown in the example in the Figure below in a resource-efficient manner. 
